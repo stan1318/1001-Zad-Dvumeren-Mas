@@ -1,0 +1,6 @@
+C:\Games\VS 2013\A lot of Projects\1001 Zad Dvumeren Mas\1001 Zad Dvumeren Mas\bin\Debug\1001 Zad Dvumeren Mas.exe.config
+C:\Games\VS 2013\A lot of Projects\1001 Zad Dvumeren Mas\1001 Zad Dvumeren Mas\bin\Debug\1001 Zad Dvumeren Mas.exe
+C:\Games\VS 2013\A lot of Projects\1001 Zad Dvumeren Mas\1001 Zad Dvumeren Mas\bin\Debug\1001 Zad Dvumeren Mas.pdb
+C:\Games\VS 2013\A lot of Projects\1001 Zad Dvumeren Mas\1001 Zad Dvumeren Mas\obj\Debug\1001 Zad Dvumeren Mas.csprojResolveAssemblyReference.cache
+C:\Games\VS 2013\A lot of Projects\1001 Zad Dvumeren Mas\1001 Zad Dvumeren Mas\obj\Debug\1001 Zad Dvumeren Mas.exe
+C:\Games\VS 2013\A lot of Projects\1001 Zad Dvumeren Mas\1001 Zad Dvumeren Mas\obj\Debug\1001 Zad Dvumeren Mas.pdb
